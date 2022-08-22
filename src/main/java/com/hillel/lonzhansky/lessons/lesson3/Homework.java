@@ -11,5 +11,6 @@ public class Homework {
 
 
         double distance = latitude + 20;
+        double distance2 = latitude + 20;
     }
 }
