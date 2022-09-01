@@ -30,25 +30,6 @@ public class Main {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     static void demo3() {
         int a = 20;
         int b = 20;
